@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-### Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Pretendo trabalhhar com front end <br>- 🌱 Eu atulmente estou estudando Full stack<br>- 😄 Pronouns: Ele/dele<br>- ⚡ Fun fact: Sou Surfista 🏄‍♀️
+### Olá! Eu sou o Murilllo Nogueira da Silva<br><br>- 🔭 Desenvolvedor Full Stack <br>- 🌱 Eu atulmente estou NodeJS<br>- 😄 Pronouns: Ele/dele<br>- ⚡ Fun fact: Sou Surfista 🏄‍♀️
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muri_ns1) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
